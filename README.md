@@ -1,2 +1,0 @@
-# LETO_Practis
-Xd
