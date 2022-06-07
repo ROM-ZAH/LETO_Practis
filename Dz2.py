@@ -125,7 +125,8 @@ def draw_gen_str31():
     ax.set_ylabel('y') 
     ax.legend()
 
-    ax.legend()             
+    ax.legend()    
+    plt.show()
 
 gen_str31()
 draw_gen_str31()
